@@ -30,8 +30,5 @@ Note: This project provides a foundation for implementing more advanced features
 ## Contributions:
 Contributions and enhancements to this Blackjack game project are welcome. Feel free to fork the repository, make improvements, and submit pull requests to help expand and refine the game.
 
-## License:
-This project is open-source and available under an appropriate open-source license (include the specific license information here).
-
 Author:
 Roberto Garcia
